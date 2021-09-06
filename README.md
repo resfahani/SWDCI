@@ -1,5 +1,5 @@
-# SWDCI
-Surface Wave Dispersion Curve Inversion
+## SWDCI
+# Surface Wave Dispersion Curve Inversion
 
 "An inexact augmented Lagrangian method for nonlinear dispersion curve inversion using Dix-type global linear approximation"
 
